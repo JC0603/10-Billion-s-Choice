@@ -1,0 +1,9 @@
+100억의 선택 - GitHub Pages용 완성 파일
+
+1. 이 폴더 안의 index.html, data, vendor 등 모든 파일과 폴더를 GitHub 저장소 최상위에 올리세요.
+2. ZIP 자체나 io-choice 폴더만 올리지 마세요. 저장소 첫 화면에 index.html이 보여야 합니다.
+3. Settings → Pages → Deploy from a branch → main → /(root) → Save.
+4. 배포 후 Pages에 표시되는 사이트 주소를 제출하세요.
+5. 자세한 사용법·분석식·출처·발표 예시는 README.md에 있습니다.
+
+HTML 더블클릭 실행은 지원되지 않습니다. 로컬 실행 시 README의 Python 명령을 사용하세요.

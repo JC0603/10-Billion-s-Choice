@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-17",
+  "passed": true,
+  "results": [
+    {
+      "level": "large",
+      "sectors": 33,
+      "sheets": 12,
+      "passed": true,
+      "independentPython": true,
+      "eligibleSectors": 33,
+      "residuals": {
+        "production": 8.881784197001252e-16,
+        "imports": 2.220446049250313e-16,
+        "valueAdded": 3.3306690738754696e-16,
+        "tolerance": 1e-8
+      }
+    },
+    {
+      "level": "medium",
+      "sectors": 83,
+      "sheets": 12,
+      "passed": true,
+      "independentPython": true,
+      "eligibleSectors": 83,
+      "residuals": {
+        "production": 7.771561172376096e-16,
+        "imports": 1.6653345369377348e-16,
+        "valueAdded": 3.3306690738754696e-16,
+        "tolerance": 1e-8
+      }
+    },
+    {
+      "level": "small",
+      "sectors": 165,
+      "sheets": 12,
+      "passed": true,
+      "independentPython": true,
+      "eligibleSectors": 164,
+      "residuals": {
+        "production": 8.881784197001252e-16,
+        "imports": 2.220446049250313e-16,
+        "valueAdded": 4.440892098500626e-16,
+        "tolerance": 1e-8
+      }
+    },
+    {
+      "level": "basic",
+      "sectors": 380,
+      "sheets": 12,
+      "passed": true,
+      "independentPython": true,
+      "eligibleSectors": 375,
+      "residuals": {
+        "production": 1.2212453270876722e-15,
+        "imports": 2.7755575615628914e-16,
+        "valueAdded": 4.440892098500626e-16,
+        "tolerance": 1e-8
+      }
+    }
+  ]
+}

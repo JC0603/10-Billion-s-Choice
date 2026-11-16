@@ -1,0 +1,1 @@
+{"name":"io-choice","version":"1.0.0","private":true,"scripts":{"test":"node tests/engine.test.cjs"},"description":"100억의 선택 — 산업연관표 비교 웹앱"}
